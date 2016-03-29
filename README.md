@@ -1,3 +1,4 @@
+These scripts are dedicated to solving Classification problems with Matlab. For Clustering tools please see the adjacent repository.
 This is how you can detect patterns and build predictive models from your datasets. Several machine learning techniques are available here to quickly explore your data, evaluate machine learning algorithms, compare the results and apply the best machine learning for your problem.
 
 This includes such machine learning techniques as (unsupervised and supervised):
